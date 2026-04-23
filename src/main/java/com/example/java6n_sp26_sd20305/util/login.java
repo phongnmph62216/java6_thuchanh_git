@@ -5,6 +5,9 @@ public class login {
 
     public static void main(String[] args) {
         System.out.printf("trang dang nhap");
+        System.out.printf("trang dang nhap");
+        System.out.printf("trang dang nhap");
+        System.out.printf("trang dang nhap");
 
 
         System.out.printf("bo xung");
